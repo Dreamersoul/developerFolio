@@ -179,7 +179,7 @@ const workExperiences = {
     {
       role: "Teaching Assistant",
       company: "Coded",
-      companylogo: require("./assets/images/coded-logo.jpeg"),
+      companylogo: require("./assets/images/coded-logo.png"),
       date: "Aug 2015 – Sept 2015",
       desc: "As a Teaching Assistant for the first boot camp in the Middle East I taught and mentored students in various coding technologies like Django, HTML, CSS, and javascript."
     }
