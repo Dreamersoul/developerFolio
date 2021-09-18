@@ -203,7 +203,7 @@ const bigProjects = {
     {
       image: require("./assets/images/phinests-icon.png"),
       projectName: "Phinests",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "Your digital directory to connect and book with creative companies and freelancers in Kuwait.",
       footerLink: [
         {
           name: "Visit Website",
